@@ -1,3 +1,3 @@
 module.exports = getCurrentTimeStamp = () => {
-    return new Date()
+  return new Date();
 }
